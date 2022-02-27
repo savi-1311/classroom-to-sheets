@@ -37,7 +37,7 @@ It is built using the:
 * Create a New Google Sheet
 * In the Extensions Menu -> Select App Scripts
  ![image](https://user-images.githubusercontent.com/56017960/155875292-14b2f340-4efb-4c1d-a30e-721b4cfe41d2.png)
-* App Scripts connected to the sheet will open up. Clear all the prewritten code and insert the following [code](https://github.com/savi-1311/classroom-to-sheets/blob/master/code.gs) into it.
+* App Scripts connected to the sheet will open up. Clear all the prewritten code and insert the following [code](https://gist.github.com/savi-1311/6838d1e3eb879208a7f9c44b428e8cf1) into it.
 * Click on Services on the left pane to add the Google Classroom API service.
  ![image](https://user-images.githubusercontent.com/56017960/155875549-95c7b947-300c-4923-bbf9-afbe1706bb4d.png)
 * Save the script by clicking on Ctrl+S.
